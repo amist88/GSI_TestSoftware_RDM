@@ -1,7 +1,7 @@
 # GSI_TestSoftware_RDM
 #Here, the code and any associated metadata should be explained as best as possible.
 
-This is a test example of how to generate a DOI from Zenodo using Github, and subsequently link everything to the GSI publications repsitory.
+This is a test example for trial purposes.
 
 The data was part of experiment XYZ, collected in the period 24.12.2021 - 05.01.22 at GSI Helmholtzzentrum für Schwerionenforshung GmbH, with experiment number G-22-00123
 The experimental instrument used was the DESPEC setup coupled to the SHIP separator.
